@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+body {
+	margin: 0 auto;
+	font-family: 'KoHo', sans-serif;
+
+}
+
+button {
+	display: none;
+	background-color: #5b77a8;
+	padding: 3em;
+	border-radius: 4px;
+	margin-left: 30em;
+	
+  }
+
+  h1 {
+	  font-size: 6em;
+	  color: #bbc6cb;
+	  margin-left: 1em;
+  }
+
+  button p {
+	font-size: 3em;
+	color: #ffffff;
+  }
